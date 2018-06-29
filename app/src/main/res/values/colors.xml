@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#464646</color>
+    <color name="colorPrimaryDark">#1f1f1f</color>
+    <color name="colorAccent">#717171</color>
+
+    <!-- Category Text Color -->
+    <color name="category_restaurants">#bd8886</color>
+    <color name="category_parks">#839389</color>
+    <color name="category_events">#8e6671</color>
+    <!--<color name="category_events">#644c5c</color>-->
+    <!--<color name="category_attractions">#8e6671</color>-->
+</resources>

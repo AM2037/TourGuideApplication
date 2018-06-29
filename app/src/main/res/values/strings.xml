@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">TourGuideApplication</string>
+    <string name="title">Discover Houston</string>
+
+    <!-- Restaurant Fragment Strings -->
+    <string name="category_restaurants">Restaurants</string>
+    <string name="restaurants_1">BCN Taste &amp; Tradition</string>
+    <string name="restaurants_address_1">4210 Roseland St. Houston, TX 77006</string>
+    <string name="restaurants_2">Etoile Cuisine et Bar</string>
+    <string name="restaurants_address_2">1101&#8211;11 Uptown Park Blvd Houston, TX 77056</string>
+    <string name="restaurants_3">Kata Robata</string>
+    <string name="restaurants_address_3">3600 Kirby Dr. Houston, TX 77098</string>
+    <string name="restaurants_4">Kiran\'s</string>
+    <string name="restaurants_address_4">2925 Richmond Ave Ste 160 Houston, TX 77098</string>
+    <string name="restaurants_5">Mala Sichuan Bistro</string>
+    <string name="restaurants_address_5">1201 Westheimer Rd. Houston, TX 77006</string>
+    <string name="restaurants_6">Peli Peli</string>
+    <string name="restaurants_address_6">5085 Westheimer Rd Ste B-2515 Houston, TX 77056</string>
+    <string name="restaurants_7">Genghis Grill</string>
+    <string name="restaurants_address_7">3879 Southwest Fwy, Houston, TX 77027</string>
+
+    <!-- Parks Fragment Strings -->
+    <string name="category_parks">Parks</string>
+    <string name="parks_1">Discovery Green</string>
+    <string name="parks_address_1">1500 McKinney St Houston, TX 77010</string>
+    <string name="parks_2">Hermann Park</string>
+    <string name="parks_address_2">6201A Hermann Park Dr Houston, TX 77030</string>
+    <string name="parks_3">Memorial Park</string>
+    <string name="parks_address_3">6501 Memorial Dr Houston, TX 77007</string>
+    <string name="parks_4">Bayou Bend Collection and Gardens</string>
+    <string name="parks_address_4">1 Westcott St Houston, TX 77007</string>
+    <string name="parks_5">Houston Arboretum &amp; Nature Center</string>
+    <string name="parks_address_5">4501 Woodway Dr Houston, TX 77024</string>
+    <string name="parks_6">Lillie and Hugh Roy Cullen Sculpture Garden</string>
+    <string name="parks_address_6">1001 Bissonnet St Houston, TX 77005</string>
+    <string name="parks_7">Sam Houston Park</string>
+    <string name="parks_address_7">1100 Bagby St Houston, TX 77002</string>
+    <string name="parks_8">North Shore Park</string>
+    <string name="parks_address_8">14440 Wallisville Rd Houston, TX 77049</string>
+    <string name="parks_9">East End Park</string>
+    <string name="parks_address_9">Kingwood Dr E Houston, TX 77345</string>
+    <string name="parks_10">Sheldon Lake State Park &amp; Environmental Learning Center</string>
+    <string name="parks_address_10">14140 Garrett Rd Houston, TX 77044</string>
+
+    <!-- Events Fragment Strings -->
+    <string name="category_events">Events</string>
+    <string name="events_1">Freedom Over Texas— July 4th</string>
+    <string name="events_address_1">500 Allen Pkwy Houston, TX 77002</string>
+    <string name="events_2">Paramore— July 13th</string>
+    <string name="events_address_2">2005 Lake Robbins Dr The Woodlands, TX 77380</string>
+    <string name="events_3">ART: The 5th Element— July 21st</string>
+    <string name="events_address_3">2201 Westheimer Rd Houston, TX 77098</string>
+    <string name="events_4">Peacock in the Desert 9/18 to 8/19</string>
+    <string name="events_address_4">1001 Bissonnet St Houston, TX 77005</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
+
+
+
