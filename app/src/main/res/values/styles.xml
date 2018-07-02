@@ -8,4 +8,10 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <!-- Tab styles
+    <style name="text_tab" parent="@android:style/TextAppearance.Widget.TabWidget">
+        <item name="android:textSize">10sp</item>
+        <item name="android:textAllCaps">true</item>
+    </style>-->
+
 </resources>

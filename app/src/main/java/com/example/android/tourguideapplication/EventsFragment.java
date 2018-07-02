@@ -22,7 +22,6 @@ public class EventsFragment extends Fragment {
         // Required empty public constructor
     }
 
-
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
@@ -33,6 +32,12 @@ public class EventsFragment extends Fragment {
         places.add(new Place(getString(R.string.events_2), getString(R.string.events_address_2), R.drawable.paramore));
         places.add(new Place(getString(R.string.events_3), getString(R.string.events_address_3), R.drawable.art));
         places.add(new Place(getString(R.string.events_4), getString(R.string.events_address_4), R.drawable.peacock));
+        places.add(new Place(getString(R.string.events_5), getString(R.string.events_address_5), R.drawable.cometogether));
+        places.add(new Place(getString(R.string.events_6), getString(R.string.events_address_6), R.drawable.brewery));
+        places.add(new Place(getString(R.string.events_7), getString(R.string.events_address_7), R.drawable.danandphil));
+        places.add(new Place(getString(R.string.events_8), getString(R.string.events_address_8), R.drawable.echosoflight));
+        places.add(new Place(getString(R.string.events_9), getString(R.string.events_address_9), R.drawable.syrianfaces));
+        places.add(new Place(getString(R.string.events_10), getString(R.string.events_address_10), R.drawable.floatflick));
         // Create an {@link WordAdapter}, whose data source is a list of {@link Word}s. The
         // adapter knows how to create list items for each item in the list.
         PlaceAdapter adapter = new PlaceAdapter(getActivity(), places, R.color.category_events);
@@ -47,7 +52,5 @@ public class EventsFragment extends Fragment {
         listView.setAdapter((ListAdapter) adapter);
         return rootView;
     }
-
 }
-
 

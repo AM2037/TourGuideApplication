@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         //Find the viewpager that will allow the user to swipe between fragments
-        ViewPager viewPager = (ViewPager) findViewById(R.id.viewpager);
+        ViewPager viewPager = findViewById(R.id.viewpager);
 
         //create an adapter that knows which fragment will show on each page
         CategoryAdapter adapter = new CategoryAdapter(getSupportFragmentManager(), this);

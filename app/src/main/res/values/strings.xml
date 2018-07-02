@@ -3,7 +3,7 @@
     <string name="title">Discover Houston</string>
 
     <!-- Restaurant Fragment Strings -->
-    <string name="category_restaurants">Restaurants</string>
+    <string name="category_restaurants">Dining</string>
     <string name="restaurants_1">BCN Taste &amp; Tradition</string>
     <string name="restaurants_address_1">4210 Roseland St. Houston, TX 77006</string>
     <string name="restaurants_2">Etoile Cuisine et Bar</string>
@@ -52,9 +52,40 @@
     <string name="events_address_3">2201 Westheimer Rd Houston, TX 77098</string>
     <string name="events_4">Peacock in the Desert 9/18 to 8/19</string>
     <string name="events_address_4">1001 Bissonnet St Houston, TX 77005</string>
+    <string name="events_5">Come Together: A Collaborative Exhibition— 5/12 to 8/12</string>
+    <string name="events_address_5">2101 Winter St Houston, TX 77007</string>
+    <string name="events_6">Craft Brewery Tours w/ Brew Trek— Saturdays</string>
+    <string name="events_address_6">Craft Breweries in Greater Houston</string>
+    <string name="events_7">Dan &amp; Phil: Interactive Introverts Tour— July 3rd</string>
+    <string name="events_address_7">18111 Lexington Blvd Sugar Land, TX 77479</string>
+    <string name="events_8">Echoes of Light: Laura Rathe— August 4th</string>
+    <string name="events_address_8">2707 Colquitt St Houston, TX 77098</string>
+    <string name="events_9">Faces of Syrian Refugees— 6/22 to 8/26</string>
+    <string name="events_address_9">9220 Kirby Dr Ste 100 Houston, TX 77054</string>
+    <string name="events_10">Float and Flick— 1st of the month until 9/1</string>
+    <string name="events_address_10">2525 West Loop S Houston, TX 77027</string>
 
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- Attractions -->
+    <string name="category_attractions">Sights</string>
+    <string name="attractions_1">Altitude Trampoline Park</string>
+    <string name="attractions_address_1">4740 Spring Cypress Rd Ste 200, Spring, TX 77379</string>
+    <string name="attractions_2">Downtown Aquarium</string>
+    <string name="attractions_address_2">410 Bagby St, Houston, TX 77002</string>
+    <string name="attractions_3">The Waterway</string>
+    <string name="attractions_address_3">The Woodlands, TX 77380</string>
+    <string name="attractions_4">Space Center Houston</string>
+    <string name="attractions_address_4">1601 E NASA Pkwy, Houston, TX 77058</string>
+    <string name="attractions_5">Broadway at the Hobby Center</string>
+    <string name="attractions_address_5">800 Bagby St Houston, TX 77002</string>
+    <string name="attractions_6">Lee and Joe Jamail Skatepark</string>
+    <string name="attractions_address_6">103 Sabine St Houston, TX 77007</string>
+    <string name="attractions_7">Room Escape Time</string>
+    <string name="attractions_address_7">1301 Leeland St Ste 200 Houston, TX 77002</string>
+    <string name="attractions_8">Bayou Place</string>
+    <string name="attractions_address_8">500 Texas Avenue Houston, TX 77002</string>
+
+    <!-- Calendar Button  -->
+    <string name="calendar">Add to Calendar</string>
 
 </resources>
 
