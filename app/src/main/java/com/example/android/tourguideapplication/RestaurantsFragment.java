@@ -29,12 +29,12 @@ public class RestaurantsFragment extends Fragment {
         View rootView = inflater.inflate(R.layout.place_list, container, false);
 
         final ArrayList<Place> places = new ArrayList<>();
-        places.add(new Place(getString(R.string.restaurants_1), getString(R.string.restaurants_address_1), R.drawable.bcntasteandtradition));
-        places.add(new Place(getString(R.string.restaurants_2), getString(R.string.restaurants_address_2), R.drawable.etoilecuisineetbar));
-        places.add(new Place(getString(R.string.restaurants_3), getString(R.string.restaurants_address_3), R.drawable.katarobata));
-        places.add(new Place(getString(R.string.restaurants_4), getString(R.string.restaurants_address_4), R.drawable.kirans));
-        places.add(new Place(getString(R.string.restaurants_5), getString(R.string.restaurants_address_5), R.drawable.malabistro));
-        places.add(new Place(getString(R.string.restaurants_6), getString(R.string.restaurants_address_6), R.drawable.pelipeli));
+        places.add(new Place(getString(R.string.restaurants_1), getString(R.string.restaurants_address_1), R.drawable.bcn));
+        places.add(new Place(getString(R.string.restaurants_2), getString(R.string.restaurants_address_2), R.drawable.etoile));
+        places.add(new Place(getString(R.string.restaurants_3), getString(R.string.restaurants_address_3), R.drawable.katarobata2));
+        places.add(new Place(getString(R.string.restaurants_4), getString(R.string.restaurants_address_4), R.drawable.kirans2));
+        places.add(new Place(getString(R.string.restaurants_5), getString(R.string.restaurants_address_5), R.drawable.malasichaun));
+        places.add(new Place(getString(R.string.restaurants_6), getString(R.string.restaurants_address_6), R.drawable.pelipeli2));
         places.add(new Place(getString(R.string.restaurants_7), getString(R.string.restaurants_address_7), R.drawable.genghisgrill));
 
         // Create an {@link WordAdapter}, whose data source is a list of {@link Word}s. The

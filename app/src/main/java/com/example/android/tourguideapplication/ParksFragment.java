@@ -33,7 +33,7 @@ public class ParksFragment extends Fragment {
         places.add(new Place(getString(R.string.parks_2), getString(R.string.parks_address_2), R.drawable.hermannpark));
         places.add(new Place(getString(R.string.parks_3), getString(R.string.parks_address_3), R.drawable.memorialpark));
         places.add(new Place(getString(R.string.parks_4), getString(R.string.parks_address_4), R.drawable.bayoubend3));
-        places.add(new Place(getString(R.string.parks_5), getString(R.string.parks_address_5), R.drawable.houstonarboretum));
+        places.add(new Place(getString(R.string.parks_5), getString(R.string.parks_address_5), R.drawable.houstonarboretum2));
         places.add(new Place(getString(R.string.parks_6), getString(R.string.parks_address_6), R.drawable.sculpturegarden));
         places.add(new Place(getString(R.string.parks_7), getString(R.string.parks_address_7), R.drawable.samhouston));
         places.add(new Place(getString(R.string.parks_8), getString(R.string.parks_address_8), R.drawable.northshore));
