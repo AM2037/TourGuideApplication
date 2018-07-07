@@ -19,14 +19,15 @@ public class CategoryAdapter extends FragmentPagerAdapter {
 
     @Override
     public Fragment getItem(int position){
-        if (position == 0) {
-            return new RestaurantsFragment();
-        } else if (position == 1){
-            return new ParksFragment();
-        } else if (position == 2){
-            return new EventsFragment();
-        } else {
-            return new AttractionsFragment();
+        switch (position) {
+            case 0:
+                return new RestaurantsFragment();
+            case 1:
+                return new ParksFragment();
+            case 2:
+                return new EventsFragment();
+            default:
+                return new AttractionsFragment();
         }
     }
 
@@ -36,14 +37,15 @@ public class CategoryAdapter extends FragmentPagerAdapter {
     }
 
     public String getPageTitle(int position) {
-        if (position == 0) {
-            return context.getString(R.string.category_restaurants);
-        } else if (position == 1) {
-            return context.getString(R.string.category_parks);
-        } else if (position == 2)  {
-            return context.getString(R.string.category_events);
-        } else {
-            return context.getString(R.string.category_attractions);
+        switch (position) {
+            case 0:
+                return context.getString(R.string.category_restaurants);
+            case 1:
+                return context.getString(R.string.category_parks);
+            case 2:
+                return context.getString(R.string.category_events);
+            default:
+                return context.getString(R.string.category_attractions);
         }
     }
 }
