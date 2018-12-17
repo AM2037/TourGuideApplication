@@ -47,7 +47,7 @@ the data from the following:
 
 * Dining: https://houston.eater.com/maps/best-houston-restaurants-38
 * Parks: https://www.tripadvisor.com/Attractions-g56003-Activities-c57-Houston_Texas.html
-* Events: https://www.visithoustontexas.com/events/ -- I got the Paramore tour date from the woodlandspavilion.net.
+* Events: https://www.visithoustontexas.com/events/ -- I got the Paramore tour date from https://woodlandspavilion.net/.
 * Sights (Attractions): https://www.visithoustontexas.com/things-to-do/attractions/
 
 ## More to come
