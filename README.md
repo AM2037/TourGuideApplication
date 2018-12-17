@@ -1,6 +1,6 @@
 # Tour Guide Application 
 
-**Created for the *Grow with Google Challenge Scholarsip:* Android Basics Course**
+**Created for the *Grow with Google Challenge Scholarship:* Android Basics Course**
 
 Used **API 28: Android 9 (Pie)** 
 
@@ -14,8 +14,7 @@ For each category, the user sees a scrolling list of things to do or see in the 
 a representative photo as well as the name or title of the item and addresses. 
 
 ## Screenshots of the UI 
-[![Screenshot-1544256253.png](https://i.postimg.cc/fySYk0qK/Screenshot-1544256253.png)](https://postimg.cc/307kcWT4) [![Screenshot-1544256258.png](https://i.postimg.cc/G3TM4ByV/Screenshot-1544256258.png)](https://postimg.cc/s1yP8gK4)
-[![Screenshot-1544256263.png](https://i.postimg.cc/DwxQjFG1/Screenshot-1544256263.png)](https://postimg.cc/XryyqRQv) [![Screenshot-1544256266.png](https://i.postimg.cc/bwwk2M5r/Screenshot-1544256266.png)](https://postimg.cc/mtKtvdBW)
+[![Screenshot-1544256253.png](https://i.postimg.cc/jdgQvtPP/Screenshot-1544256253.png)](https://postimg.cc/bsntwX6w) [![Screenshot-1544256258.png](https://i.postimg.cc/0jHMG5FN/Screenshot-1544256258.png)](https://postimg.cc/64nptK9s) [![Screenshot-1544256263.png](https://i.postimg.cc/W35hjb27/Screenshot-1544256263.png)](https://postimg.cc/KkgZDb3K) [![Screenshot-1544256266.png](https://i.postimg.cc/dVG339s3/Screenshot-1544256266.png)](https://postimg.cc/75YwQ0Tr)
 
 ## About the Code
 I created this cohesive user experience using a combination of fragments which each contain a root view in the
